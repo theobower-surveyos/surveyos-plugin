@@ -1,0 +1,9 @@
+{
+  "name": "surveyos",
+  "description": "Operating layer for surveying firms. AI workflows for stakeout QC, project status, crew dispatch, and field operations.",
+  "version": "0.1.0",
+  "author": {
+    "name": "SurveyOS",
+    "url": "https://surveyos.co"
+  }
+}
